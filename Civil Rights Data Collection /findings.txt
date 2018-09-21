@@ -1,0 +1,8 @@
+Looking at the pivot tables comparing male and female enrollment for juvenile
+justice facilities and magnet schools shows that there are many more students
+enrolled in magnet schools in general. Furthermore, there is a large discrepency
+between male and female enrollment at juvenile justice facilities as there are 
+many more males enrolled than females. In contrast, magnet schools have 
+more equal representation between males and females. 
+
+When exploring race and gender ratios, I found that the school districts are fairly representative of the US population. There is a higher hispanic population and slightly lower white population, but overall the percentages hold compared to the US as a
