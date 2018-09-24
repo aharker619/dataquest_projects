@@ -6,3 +6,5 @@ Projects from dataquest course and datasets
 - Intermediate Python: Gun Deaths in the US
 - Pandas and Numpy Fundamentals: Ebay car sales
 - Exploratory Data visualization: Visualizing Earnings Based On College Majors
+- Data Cleaning: Star Wars
+- Working with Data Downloads: Civil Rights Data Collection
